@@ -12,6 +12,7 @@ import useGraphQL from '../api/useGraphQL';
 import Error from './Error';
 import Loading from './Loading';
 import './Adventures.scss';
+import wkndTile from '../images/wknd-tile.svg';
 
 
 function Adventures() {
